@@ -1,0 +1,23 @@
+@font-face{
+  src:url('../fonts/futura.TTF');
+  font-family:'futura';
+}
+body{
+  padding:0;
+  margin:0;
+  width:100%;
+  height:100%;
+  background:#5DB1BB;;
+  text-align:center;
+}
+.space{
+  display: inline-block;
+  width:80%;
+  color:white;
+  font-size:18px;
+  font-weight:bold;
+  font-family:futura;
+}
+.space a{
+  color:white;//#001A2B;
+}
