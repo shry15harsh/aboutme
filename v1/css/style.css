@@ -28,9 +28,9 @@ body{
 }
 .profession{
   color:grey;
-  position:absolute;
-  top:5%;
-  left:5%;
+  //position:absolute;
+  margin-top:2%;
+  margin-left:5%;
   font-size:14px;
 }
 .profession .designation{
@@ -39,9 +39,9 @@ body{
 }
 .name{
   color:black;
-  position: absolute;
-  bottom: 5%;
-  left:5%;
+  //position: absolute;
+  margin-top: 2%;
+  margin-left:5%;
 }
 .name a{
   color:grey;
@@ -57,9 +57,9 @@ body{
   line-height: 25px;
 }
 .tweets{
-  position: absolute;
+  //position: absolute;
   width:25%;
   height:50%;
-  top:20%;
-  left:1%;
+  margin-top:2%;
+  margin-left:1%;
 }
